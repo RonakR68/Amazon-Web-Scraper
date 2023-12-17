@@ -27,16 +27,19 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/RonakR68/Amazon-Web-Scraper.git
+```
 
 2. Navigate to the project directory:
 
 ```bash
 cd Amazon-Web-Scraper
+```
 
 3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## How to Run
 
@@ -44,5 +47,6 @@ pip install -r requirements.txt
 
 ```bash
 python3 main.py
+```
 
 2. Check the Output directory for the generated Excel file (Dell_Laptops.xlsx) containing the scraped data.
